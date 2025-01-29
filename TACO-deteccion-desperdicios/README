@@ -1,1 +1,0 @@
-Proyecto de detección de desperdicios en la vía pública aplicando una MASK-RCNN. Se evaluaron diferentes backbones para el modelos con el fin de determinar cual otorgaba un mejor rendimiento al del estado del arte.
